@@ -29,7 +29,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
    git clone https://github.com/seu-usuario/filmecrud.git
    cd filmecrud
 
-filmecrud/
+```filmecrud/
 ├── public/
 │   └── index.html          # Arquivo HTML principal
 ├── src/
